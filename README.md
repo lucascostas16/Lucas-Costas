@@ -17,4 +17,5 @@ Análisis comparativo por regiones y simulación de rendimientos históricos.
 
 Pronto compartiré más proyectos en este espacio. ¡Gracias por pasarte!
 
-📬 lucascostas16@gmail.com | [LinkedIn]([https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/lucas-costas-gonz%C3%A1lez-51b259235/))
+📬 lucascostas16@gmail.com | [LinkedIn](https://www.linkedin.com/in/lucas-costas-gonz%C3%A1lez-51b259235/))
+
